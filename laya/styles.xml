@@ -1,0 +1,28 @@
+<res>
+   <item name="comp/goldenfoot_coins_numberbg_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,14,7,11" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_menubar_9.png" type="Button" compress="0" pack="0" quality="80" props="sizeGrid=6,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_button_plus.png" type="Button" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog1_9.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=5,1,5,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog5_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_maintitlebg_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=7,8,10,5" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_mainYbutton_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=5,26,2,23" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog4_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_icon_X.png" type="Button" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog_highlight_alpha_9.png" type="Image" compress="0" pack="2" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog_shade_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,10" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog_shadow_alpha_9.png" type="Image" compress="0" pack="2" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_blog1_9.png" type="Image" compress="0" pack="2" quality="80" props="sizeGrid=3,0,3,0" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_maintitlebg_9.png" type="Image" compress="0" pack="2" quality="80" props="sizeGrid=3,7,5,5" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_blog3_9.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_blog2_9.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_blog4_9.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_blog5_9.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="noAlpha/goldenfoot_menubar_9.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_unselectedshadow_9.png" type="Image" compress="0" pack="2" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog2_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=3,1,3,1" picType="0" scale="0"/>
+   <item name="comp/blank.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_blog3_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=1,1,1,1" picType="0" scale="0"/>
+   <item name="comp/goldenfoot_mainNbutton_9.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=11,9,14,7" picType="0" scale="0"/>
+   <item name="comp" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/button_main_button.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>

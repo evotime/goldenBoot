@@ -1,0 +1,22 @@
+if (typeof GB === 'undefined' ) GB={};
+GB.ballMovement={
+    gravity:-10,
+    airResis:-4,
+    range1Velocity:20,
+    range2Velocity:25,
+    range3Velocity:30,
+    bounceVelocityReduce:-0.6,
+    maxMouseX:160,
+    minMouseX:-160,
+    xSens:1,
+    shootMinMouseY:80,
+    shootMaxMouseY:160,
+    maxMouseY:-80,
+    minMouseY:-160,
+    ySens:1,
+    turnFrames:10,
+    shootMouseMoveRequire:100,
+    extraYVelocity:2,
+    baseYVelocity:3
+}
+//
